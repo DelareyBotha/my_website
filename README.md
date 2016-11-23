@@ -1,3 +1,5 @@
-# website
+# Website
 
-changes made from example branch
+Changes made from example branch
+
+Updating readme
